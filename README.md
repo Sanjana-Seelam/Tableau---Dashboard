@@ -1,0 +1,1 @@
+This dashboard provides a comprehensive overview of video game sales, highlighting top-selling games, sales trends by genre over time, and leading platforms and publishers. It visually represents data to reveal insights into market dynamics, popular titles, and the dominance of key players in the industry.
